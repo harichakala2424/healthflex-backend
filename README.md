@@ -3,8 +3,8 @@ Assignment Overview: This project is a backend system for a Twitter-like applica
 How to run the Application:
 
 Follow these steps to set up and run the application locally:
-
-Clone the repository: git clone https://github.com/megha-js/Healthflex-Twitter-backend-Assignment.git
+.com/megha-js/Healthf
+Clone the repository: https://github.com/harichakala2424/healthflex-backend.git
 
 Install dependencies: npm install
 
